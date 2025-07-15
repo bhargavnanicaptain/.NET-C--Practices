@@ -1,0 +1,14 @@
+C:\C#-Learnings\Task2\bin\Debug\net8.0\Task2.exe
+C:\C#-Learnings\Task2\bin\Debug\net8.0\Task2.deps.json
+C:\C#-Learnings\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+C:\C#-Learnings\Task2\bin\Debug\net8.0\Task2.dll
+C:\C#-Learnings\Task2\bin\Debug\net8.0\Task2.pdb
+C:\C#-Learnings\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#-Learnings\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+C:\C#-Learnings\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+C:\C#-Learnings\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+C:\C#-Learnings\Task2\obj\Debug\net8.0\Task2.dll
+C:\C#-Learnings\Task2\obj\Debug\net8.0\refint\Task2.dll
+C:\C#-Learnings\Task2\obj\Debug\net8.0\Task2.pdb
+C:\C#-Learnings\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+C:\C#-Learnings\Task2\obj\Debug\net8.0\ref\Task2.dll

@@ -1,0 +1,14 @@
+C:\C#-Learnings\DS-Example\bin\Debug\net8.0\DS-Example.exe
+C:\C#-Learnings\DS-Example\bin\Debug\net8.0\DS-Example.deps.json
+C:\C#-Learnings\DS-Example\bin\Debug\net8.0\DS-Example.runtimeconfig.json
+C:\C#-Learnings\DS-Example\bin\Debug\net8.0\DS-Example.dll
+C:\C#-Learnings\DS-Example\bin\Debug\net8.0\DS-Example.pdb
+C:\C#-Learnings\DS-Example\obj\Debug\net8.0\DS-Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#-Learnings\DS-Example\obj\Debug\net8.0\DS-Example.AssemblyInfoInputs.cache
+C:\C#-Learnings\DS-Example\obj\Debug\net8.0\DS-Example.AssemblyInfo.cs
+C:\C#-Learnings\DS-Example\obj\Debug\net8.0\DS-Example.csproj.CoreCompileInputs.cache
+C:\C#-Learnings\DS-Example\obj\Debug\net8.0\DS-Example.dll
+C:\C#-Learnings\DS-Example\obj\Debug\net8.0\refint\DS-Example.dll
+C:\C#-Learnings\DS-Example\obj\Debug\net8.0\DS-Example.pdb
+C:\C#-Learnings\DS-Example\obj\Debug\net8.0\DS-Example.genruntimeconfig.cache
+C:\C#-Learnings\DS-Example\obj\Debug\net8.0\ref\DS-Example.dll

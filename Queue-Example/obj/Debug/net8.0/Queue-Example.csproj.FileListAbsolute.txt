@@ -1,0 +1,14 @@
+C:\C#-Learnings\Queue-Example\bin\Debug\net8.0\Queue-Example.exe
+C:\C#-Learnings\Queue-Example\bin\Debug\net8.0\Queue-Example.deps.json
+C:\C#-Learnings\Queue-Example\bin\Debug\net8.0\Queue-Example.runtimeconfig.json
+C:\C#-Learnings\Queue-Example\bin\Debug\net8.0\Queue-Example.dll
+C:\C#-Learnings\Queue-Example\bin\Debug\net8.0\Queue-Example.pdb
+C:\C#-Learnings\Queue-Example\obj\Debug\net8.0\Queue-Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#-Learnings\Queue-Example\obj\Debug\net8.0\Queue-Example.AssemblyInfoInputs.cache
+C:\C#-Learnings\Queue-Example\obj\Debug\net8.0\Queue-Example.AssemblyInfo.cs
+C:\C#-Learnings\Queue-Example\obj\Debug\net8.0\Queue-Example.csproj.CoreCompileInputs.cache
+C:\C#-Learnings\Queue-Example\obj\Debug\net8.0\Queue-Example.dll
+C:\C#-Learnings\Queue-Example\obj\Debug\net8.0\refint\Queue-Example.dll
+C:\C#-Learnings\Queue-Example\obj\Debug\net8.0\Queue-Example.pdb
+C:\C#-Learnings\Queue-Example\obj\Debug\net8.0\Queue-Example.genruntimeconfig.cache
+C:\C#-Learnings\Queue-Example\obj\Debug\net8.0\ref\Queue-Example.dll

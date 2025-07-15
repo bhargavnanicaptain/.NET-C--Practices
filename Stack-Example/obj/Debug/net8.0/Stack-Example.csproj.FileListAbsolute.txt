@@ -1,0 +1,14 @@
+C:\C#-Learnings\Stack-Example\bin\Debug\net8.0\Stack-Example.exe
+C:\C#-Learnings\Stack-Example\bin\Debug\net8.0\Stack-Example.deps.json
+C:\C#-Learnings\Stack-Example\bin\Debug\net8.0\Stack-Example.runtimeconfig.json
+C:\C#-Learnings\Stack-Example\bin\Debug\net8.0\Stack-Example.dll
+C:\C#-Learnings\Stack-Example\bin\Debug\net8.0\Stack-Example.pdb
+C:\C#-Learnings\Stack-Example\obj\Debug\net8.0\Stack-Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#-Learnings\Stack-Example\obj\Debug\net8.0\Stack-Example.AssemblyInfoInputs.cache
+C:\C#-Learnings\Stack-Example\obj\Debug\net8.0\Stack-Example.AssemblyInfo.cs
+C:\C#-Learnings\Stack-Example\obj\Debug\net8.0\Stack-Example.csproj.CoreCompileInputs.cache
+C:\C#-Learnings\Stack-Example\obj\Debug\net8.0\Stack-Example.dll
+C:\C#-Learnings\Stack-Example\obj\Debug\net8.0\refint\Stack-Example.dll
+C:\C#-Learnings\Stack-Example\obj\Debug\net8.0\Stack-Example.pdb
+C:\C#-Learnings\Stack-Example\obj\Debug\net8.0\Stack-Example.genruntimeconfig.cache
+C:\C#-Learnings\Stack-Example\obj\Debug\net8.0\ref\Stack-Example.dll
